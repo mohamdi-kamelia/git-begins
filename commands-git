@@ -1,0 +1,6 @@
+Cloner un repository
+git clone <URL_du_repository>
+Les 3 commandes de push
+git push origin <nom_de_la_branche>
+git push origin --all
+git push origin --tags
