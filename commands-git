@@ -1,6 +1,8 @@
-Cloner un repository
-git clone <URL_du_repository>
-Les 3 commandes de push
-git push origin <nom_de_la_branche>
-git push origin --all
-git push origin --tags
+# Cloner un repository
+git clone https://github.com/mohamdi-kamelia/git-begins
+
+# Les 3 commandes de push
+git add . 
+git commit -m "Job terminer" 
+git push 
+
